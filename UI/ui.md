@@ -44,12 +44,12 @@ A simple entry point for new users with a clear distinction between:
 
 **Sign Up → Create an account**
 
-<image src ="register1.png">
-<image src ="register2.png">
+<image src ="register1.png"/>
+<image src ="register2.png"/>
 
 **Log In → Continue to the app**
 
-<image src ="login.png">
+<image src ="login.png"/>
 
 The onboarding experience is intentionally minimal so users can get into the app quickly.
 
@@ -57,7 +57,7 @@ The onboarding experience is intentionally minimal so users can get into the app
 
 The authentication flow includes:
 
-<image src="register1.png">
+<image src="register1.png"/>
 
 - Login
 - Sign up
@@ -70,7 +70,7 @@ The screens are designed to maintain the same visual language throughout the flo
 
 The home screen acts as the user's communication hub.
 
-<image src="homescreen.png">
+<image src="homescreen.png"/>
 
 It focuses on:
 
@@ -88,7 +88,7 @@ The layout prioritizes **people and conversations**, keeping secondary informati
 
 The chat screen is designed around one simple objective:
 
-<image src="chatscreen.png">
+<image src="chatscreen.png"/>
 
 > **Make the conversation the main character.**
 
@@ -110,7 +110,7 @@ The profile screen introduces a more personal side of the application.
 
 Instead of showing only basic account information, the design explores lightweight **gamification**.
 
-<image src="myprofile.png">
+<image src="myprofile.png"/>
 
 Possible profile elements include:
 
@@ -235,20 +235,20 @@ Add your screenshots here as the project evolves.
 
 ### Welcome & Authentication
 
-<image src="welcome.png">
-<image src="login.png">
+<image src="welcome.png"/>
+<image src="login.png"/>
 
 ### Home & Conversations
 
-<image src="homescreen.png">
+<image src="homescreen.png"/>
 
 ### Chat
 
-<image src="chatscreen.png">
+<image src="chatscreen.png"/>
 
 ### Profile & Settings
 
-<image src="myprofile.png">
+<image src="myprofile.png"/>
 
 
 > Screenshots shown in this repository represent the current design direction and may evolve during development.
