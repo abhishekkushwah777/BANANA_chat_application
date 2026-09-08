@@ -1,4 +1,4 @@
-# 🍌BANANA - Real-Time Chat Application
+# 🍌BANANA - Real-Time Chat WebApp
 
 A full-stack **real-time chat application** built with **React.js, Node.js, Express.js, MongoDB, and Socket.IO**.
 
