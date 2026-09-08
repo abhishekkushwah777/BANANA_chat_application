@@ -50,6 +50,9 @@ The application supports user authentication, private conversations, persistent 
 ## UI Design
 ### Login UI
 <image src = "./UI/welcome.png">
+<image src = "./UI/login.png">
+<image src = "./UI/register_1.png">
+ 
 ---
 
 ## 🛠️ Tech Stack
