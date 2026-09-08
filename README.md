@@ -47,6 +47,10 @@ The application supports user authentication, private conversations, persistent 
   * Real-time UI updates when new messages arrive
 
 ---
+## UI Design
+### Login UI
+<image src = "./UI/welcome.png">
+---
 
 ## 🛠️ Tech Stack
 
