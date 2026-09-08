@@ -47,11 +47,25 @@ The application supports user authentication, private conversations, persistent 
   * Real-time UI updates when new messages arrive
 
 ---
+
 ## UI Design
 ### Login UI
+
 <image src = "./UI/welcome.png">
 <image src = "./UI/login.png">
+ 
+### Registration
+ 
 <image src = "./UI/register_1.png">
+<image src = "./UI/register_2.png">
+ 
+### In app screens
+
+<image src = "./UI/homescreen.png">
+<image src = "./UI/chatscreen.png">
+<image src = "./UI/notification.png">
+<image src = "./UI/addfriends.png">
+<image src = "./UI/myprofile.png">
  
 ---
 
